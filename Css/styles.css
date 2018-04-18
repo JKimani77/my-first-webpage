@@ -1,0 +1,19 @@
+
+body{
+  background-color: crimson;
+}
+
+h1{
+  color: #1D131E;
+}
+h2 {
+  color: #1D131E;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: lucida;
+}
+ul {
+  line-height: 40px;
+}
